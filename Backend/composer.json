@@ -1,0 +1,19 @@
+{
+  "name": "cinebaz/supportticket",
+  "description": "This will supportticket pagckage for cinebaz",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Billal Hossen",
+      "email": "billalhossennn@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Cinebaz\\SupportTicket\\": "src/"
+    }
+  }
+}
